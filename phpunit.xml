@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpunit>
+    <testsuite name="Api">
+        <directory suffix="Test.php">./app/api/tests</directory>
+    </testsuite>
+</phpunit>
